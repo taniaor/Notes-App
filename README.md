@@ -1,3 +1,3 @@
 # Notes App
-Created using Swift and is for the iOS
+Created using Swift, works for iOS
 
